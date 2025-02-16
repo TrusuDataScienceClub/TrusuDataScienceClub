@@ -73,11 +73,3 @@ We work with the latest tools and technologies, including:
 [![Email](https://img.shields.io/badge/Email-trusudatascienceclub%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:trusudatascienceclub@gmail.com)
 
 Join us and **become part of the data revolution! 🚀**
-
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=trusudatascienceclub&show_icons=true&locale=en&layout=compact" alt="trusudatascienceclub" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=trusudatascienceclub&show_icons=true&locale=en" alt="trusudatascienceclub" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=trusudatascienceclub&" alt="trusudatascienceclub" /></p>
