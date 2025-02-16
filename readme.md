@@ -1,41 +1,80 @@
-<h1 align="center">Hi 👋, I'm TRUSU DATA SCIENCE CLUB</h1>
-</br>
-<p>The Data Science Club, an official academic club under the Thompson Rivers University Students' Union (TRUSU), is dedicated to fostering a vibrant community of data enthusiasts, learners, and professionals. Our mission is to provide a collaborative platform where students can engage in hands-on projects, attend insightful workshops, and expand their knowledge in the rapidly growing field of data science. Whether you’re passionate about machine learning, data analysis, AI, or simply curious about the power of data, we offer resources and events to help you thrive. </p>
-Our activities include: 
-<li>📊 Workshops and Seminars: Learn from industry experts and academics about the latest trends and tools in data science.</li>
-<li>🤝 Collaborative Projects: Work on real-world data science problems, building your portfolio and gaining practical experience.</li> 
-<li>🎮 Games Nights & Networking Events: A fun way to test your data skills while connecting with peers and professionals in the field.</li>
-<li>🏆 Competitions & Challenges: Participate in coding challenges and data science competitions to sharpen your skills. </li>
-</br>
-<p>Our goal is to inspire creativity, build technical skills, and prepare students for the ever-evolving demands of data-driven industries. Join us and be part of a growing community that embraces the future of data science.</p>
+# 📊 TRUSU Data Science Club
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=trusudatascienceclub&label=Profile%20views&color=0e75b6&style=flat" alt="trusudatascienceclub" /> </p>
+Welcome to the **TRUSU Data Science Club**, an official academic club under the Thompson Rivers University Students' Union (TRUSU). We are a passionate community of data enthusiasts, learners, and professionals dedicated to exploring the vast world of data science.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=trusudatascienceclub" alt="trusudatascienceclub" /></a> </p>
+## 🚀 About Us
+Our mission is to create an engaging platform where students can:
+- Learn and apply data science techniques through hands-on **projects**.
+- Attend insightful **workshops** led by industry experts.
+- Collaborate on real-world **data challenges** to enhance their skills.
+- Expand their professional **network** and prepare for careers in data-driven industries.
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+Whether you're interested in **machine learning, AI, data visualization, or analytics**, this club is for you! 🧠📈
 
-- 🔭 I’m currently working on **Community Builiding**
+---
 
-- 👯 I’m looking to collaborate on **Data Science Project & Networking**
+## 🎯 What We Offer
+### 📊 Workshops & Seminars
+- Learn from **industry experts & professors**.
+- Stay updated on the latest **trends & tools** in data science.
 
-- 👨‍💻 All of my projects are available at [https://github.com/TrusuDataScienceClub/](https://github.com/TrusuDataScienceClub/)
+### 🤝 Collaborative Projects
+- Work on **real-world datasets**.
+- Gain **hands-on experience** to build your portfolio.
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/data-science-club-840793328/](https://www.linkedin.com/in/data-science-club-840793328/)
+### 🎮 Game Nights & Networking Events
+- Have fun with **data science-themed challenges**.
+- Meet and connect with **like-minded peers & professionals**.
 
-- 📫 How to reach me **trusudatascienceclub@gmail.com**
+### 🏆 Competitions & Challenges
+- Participate in **coding competitions & hackathons**.
+- Test & sharpen your **problem-solving skills**.
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/data-science-club-840793328/](https://www.linkedin.com/in/data-science-club-840793328/)
+---
 
-- ⚡ Fun fact **Academic Club**
+## 📍 Get Involved!
+📌 **Join us and be part of a thriving data science community!**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/data-science-club-840793328/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/data-science-club-840793328/" height="30" width="40" /></a>
-</p>
+🔗 **Projects & Contributions:** [GitHub](https://github.com/TrusuDataScienceClub/)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+📝 **Latest Articles & Updates:** [LinkedIn](https://www.linkedin.com/in/data-science-club-840793328/)
+
+📧 **Contact Us:** trusudatascienceclub@gmail.com
+
+---
+
+## 🛠️ Tech Stack & Tools
+We work with the latest tools and technologies, including:
+
+**Languages & Frameworks:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+**Data Science Libraries:**  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=black) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+
+**Databases & Visualization Tools:**  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=elasticsearch&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-Blue?style=for-the-badge&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=trusudatascienceclub&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=trusudatascienceclub&show_icons=true&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=trusudatascienceclub&theme=radical)
+
+---
+
+## 🌟 Connect with Us
+📌 **Stay updated and network with us:**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/data-science-club-840793328/)
+[![Email](https://img.shields.io/badge/Email-trusudatascienceclub%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:trusudatascienceclub@gmail.com)
+
+Join us and **become part of the data revolution! 🚀**
+
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=trusudatascienceclub&show_icons=true&locale=en&layout=compact" alt="trusudatascienceclub" /></p>
 
