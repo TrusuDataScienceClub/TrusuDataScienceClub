@@ -1,4 +1,7 @@
-# 📊 TRUSU Data Science Club
+<p align="center">
+  <img src="PosterTRUSUDS.jpg" alt="TRUSU Data Science Club" width="600"/>
+</p>
+# TRUSU Data Science Club
 
 Welcome to the **TRUSU Data Science Club**, an official academic club under the Thompson Rivers University Students' Union (TRUSU). We are a passionate community of data enthusiasts, learners, and professionals dedicated to exploring the vast world of data science.
 
