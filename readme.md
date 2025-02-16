@@ -1,6 +1,7 @@
 <p align="center">
   <img src="PosterTRUSUDS.jpg" alt="TRUSU Data Science Club" width="100%">
 </p>
+
 ---
 
 # TRUSU Data Science Club
